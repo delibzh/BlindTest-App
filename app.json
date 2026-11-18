@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "Talaref - Blindtest",
+    "slug": "talaref-blindtest",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "scheme": "blindest",
+    "splash": {
+      "backgroundColor": "#0B051D"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.talarefblindtest.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Icon/UI/adaptive-icon.png",
+        "backgroundColor": "#0a0a0a"
+      },
+      "package": "com.talarefblindtest.app",
+      "edgeToEdgeEnabled": false,
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "bundler": "metro",
+      "favicon": "./assets/Icon/UI/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "react-native-google-mobile-ads",
+        {
+          "androidAppId": "ca-app-pub-4225207156456825~6695694451",
+          "iosAppId": "ca-app-pub-4225207156456825~6695694451"
+        }
+      ],
+      "expo-audio"
+    ]
+  }
+}

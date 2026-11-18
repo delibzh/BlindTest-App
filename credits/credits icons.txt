@@ -1,0 +1,25 @@
+trust = <a href="https://www.flaticon.com/free-icons/integrity" title="integrity icons">Integrity icons created by okaikon - Flaticon</a>
+buzzer = <a href="https://www.flaticon.com/free-icons/quiz" title="quiz icons">Quiz icons created by afif fudin - Flaticon</a> 
+category = <a href="https://www.flaticon.com/free-icons/categories" title="categories icons">Categories icons created by Lizel Arina - Flaticon</a>
+trophe = <a href="https://www.flaticon.com/free-icons/trophy" title="trophy icons">Trophy icons created by Muhammad Atif - Flaticon</a>
+target = <a href="https://www.flaticon.com/free-icons/target" title="target icons">Target icons created by Freepik - Flaticon</a>
+infini = <a href="https://www.flaticon.com/free-icons/infinite" title="infinite icons">Infinite icons created by Khoirul Huda - Flaticon</a>
+soiree = <a href="https://www.flaticon.com/free-icons/celebrating" title="celebrating icons">Celebrating icons created by gravisio - Flaticon</a>
+clavier = <a href="https://www.flaticon.com/free-icons/electric-keyboard" title="electric keyboard icons">Electric keyboard icons created by afif fudin - Flaticon</a>
+QCM = <a href="https://www.flaticon.com/free-icons/exam" title="exam icons">Exam icons created by Freepik - Flaticon</a>
+life = <a href="https://www.flaticon.com/free-icons/pixel" title="pixel icons">Pixel icons created by Freepik - Flaticon</a>
+lock = <a href="https://www.flaticon.com/free-icons/encryption" title="encryption icons">Encryption icons created by meaicon - Flaticon</a>
+anime = <a href="https://www.flaticon.com/free-icons/japan" title="japan icons">Japan icons created by Us and Up - Flaticon</a>
+series = <a href="https://www.flaticon.com/free-icons/broadcast" title="Broadcast icons">Broadcast icons created by meaicon - Flaticon</a>
+dessin anime = <a href="https://www.flaticon.com/free-icons/male-cartoon" title="male cartoon icons">Male cartoon icons created by Icon.doit - Flaticon</a>
+games = <a href="https://www.flaticon.com/free-icons/arcade" title="arcade icons">Arcade icons created by meaicon - Flaticon</a>
+movies = <a href="https://www.flaticon.com/free-icons/scene" title="scene icons">Scene icons created by meaicon - Flaticon</a>
+pubs = <a href="https://www.flaticon.com/free-icons/social-media-marketing" title="social media marketing icons">Social media marketing icons created by Chattapat.k - Flaticon</a>
+repliques = <a href="https://www.flaticon.com/free-icons/motivational-speech" title="motivational speech icons">Motivational speech icons created by Us and Up - Flaticon</a>
+tv show = <a href="https://www.flaticon.com/free-icons/performing-arts" title="performing arts icons">Performing arts icons created by gravisio - Flaticon</a>
+animation = <a href="https://www.flaticon.com/free-icons/princess" title="princess icons">Princess icons created by Muhammad Ali - Flaticon</a>
+micro = <a href="https://www.flaticon.com/free-icons/performing-arts" title="performing arts icons">Performing arts icons created by gravisio - Flaticon</a>
+retry  = <a href="https://www.flaticon.com/free-icons/reload" title="reload icons">Reload icons created by kliwir art - Flaticon</a>
+death = <a href="https://www.flaticon.com/free-icons/lost" title="lost icons">Lost icons created by Graphix Dxinerz - Flaticon</a>
+music_note = <a href="https://www.flaticon.com/free-icons/quaver" title="quaver icons">Quaver icons created by Dragon Icons - Flaticon</a> 
+premium = <a href="https://www.flaticon.com/free-icons/premium-quality" title="premium quality icons">Premium quality icons created by Talha Dogar - Flaticon</a>
